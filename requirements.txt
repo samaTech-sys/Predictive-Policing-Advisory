@@ -1,0 +1,19 @@
+pandas
+dvc
+ensure
+mlflow==2.9.2
+notebook
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-box==6.0.2
+pyyaml
+tqdm
+joblib
+types-pyyaml
+scipy
+Flask
+missingno
+Flask-cors
+-e .

@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: predictivePolicing
+Version: 0.0.0
+Summary: This project trains a gradient boost model for predicting the percentage of theft cases in the administrative regions of Kampala. It guides allocation of police resources to combat theft cases in Kampala
+Home-page: https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}
+Author: samaTech-sys
+Author-email: collinetazuba@gmail.com
+Project-URL: Bug Tracker, https://github.com/samaTech-sys/Predictive-Policing-Advisory/issues
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: project-url
+Dynamic: summary
+
+# Predictive-Policing-Advisory
+A predictive model to guide Allocation of Policing Resources to combat theft cases in Kampala.
