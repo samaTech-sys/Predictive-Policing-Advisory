@@ -1,0 +1,20 @@
+COLUMNS:
+  area_id: str
+  area_name: str
+  region: str	
+  month: int64	
+  year: int64	
+  total_thefts_last_month: int64	
+  theft_trend: float64	
+  youth_unemp_rate: float64	
+  pop_density_sqkm: int64	
+  landuse_mix: str	
+  lighting_index: float64	
+  police_per_10k: int64	
+  high_risk_next_month: int64
+
+
+
+
+
+
