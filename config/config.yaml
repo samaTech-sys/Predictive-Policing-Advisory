@@ -13,3 +13,10 @@ data_validation:
   root_dir: artifacts/data_validation
   unzip_data_dir: artifacts/data_ingestion/Kampala_Theft_Dataset.csv
   STATUS_FILE: artifacts/data_validation/status.txt
+
+
+#Data processing Repositories 
+data_processing:
+  root_dir: artifacts/data_processing
+  selected_data_file: artifacts/data_processing/selected_features.csv
+  validation_report: artifacts/data_validation/selected_features_validation_report.txt
