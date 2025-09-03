@@ -11,5 +11,5 @@ data_ingestion:
 #Data Validation repositories
 data_validation: 
   root_dir: artifacts/data_validation
-  unzip_data_dir: artifacts/data_ingestion/Kampala_Theft_Dataset.xlsx
+  unzip_data_dir: artifacts/data_ingestion/Kampala_Theft_Dataset.csv
   STATUS_FILE: artifacts/data_validation/status.txt
